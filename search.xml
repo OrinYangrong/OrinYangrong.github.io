@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[我的第三篇文章]]></title>
+    <url>%2F2018%2F05%2F31%2F%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>测试2</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[我的第二篇文章]]></title>
+    <url>%2F2018%2F05%2F31%2F%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+  </entry>
+  <entry>
     <title><![CDATA[我的第一篇文章]]></title>
     <url>%2F2018%2F05%2F30%2F%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%2F</url>
     <content type="text"></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>test</tag>
+        <tag>hexo</tag>
+        <tag>blog</tag>
+      </tags>
   </entry>
 </search>
